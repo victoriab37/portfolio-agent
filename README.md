@@ -94,6 +94,15 @@ Each agent has a single responsibility and communicates through structured Pytho
 
 ---
 
+
+
+## Security
+
+API keys are managed via environment variables and excluded from version 
+control via `.gitignore`. The GitHub token uses a fine-grained personal 
+access token scoped to the minimum required permissions, following the 
+principle of least privilege.
+
 ## Output
 
 Each run saves two files to the `output/` folder:
