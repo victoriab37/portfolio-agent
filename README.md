@@ -2,7 +2,10 @@
 
 An AI-powered agent that researches current job market trends, generates tailored portfolio project ideas, scores and ranks them, then drafts a Medium article and GitHub README — all from the command line.
 
-Built by [Victoria Browning](https://github.com/victoriab37) to showcase AI engineering and cybersecurity skills.
+Built by [Victoria Browning](https://github.com/victoriab37) to showcase AI engineering and cybersecurity skills.  
+
+**Read the full story on Medium:**  
+ [@How I Built an AI Agent to Generate Portfolio Projects and Draft Medium Articles](https://medium.com/@victoria-browning/how-i-built-an-ai-agent-to-generate-portfolio-projects-and-draft-medium-articles-582bb22feef1)
 
 ![Python](https://img.shields.io/badge/Python-3.11+-blue) ![Anthropic](https://img.shields.io/badge/Anthropic-Claude-purple) ![License](https://img.shields.io/badge/license-MIT-green)
 
@@ -115,7 +118,3 @@ output/
 
 ---
 
-
-## Blog
-
-Read about how I built this on Medium: [@How I Built an AI Agent to Generate Portfolio Projects and Draft Medium Articles](https://medium.com/@victoria-browning/how-i-built-an-ai-agent-to-generate-portfolio-projects-and-draft-medium-articles-582bb22feef1)
