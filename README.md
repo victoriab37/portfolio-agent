@@ -118,4 +118,4 @@ output/
 
 ## Blog
 
-Read about how I built this on Medium: [@victoriab37](https://medium.com/@victoriab37)
+Read about how I built this on Medium: [@How I Built an AI Agent to Generate Portfolio Projects and Draft Medium Articles](https://medium.com/@victoria-browning/how-i-built-an-ai-agent-to-generate-portfolio-projects-and-draft-medium-articles-582bb22feef1)
